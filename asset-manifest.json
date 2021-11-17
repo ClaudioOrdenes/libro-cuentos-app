@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/libro-cuentos-app/static/css/main.82f7c6a6.chunk.css",
+    "main.js": "/libro-cuentos-app/static/js/main.60cfbe92.chunk.js",
+    "main.js.map": "/libro-cuentos-app/static/js/main.60cfbe92.chunk.js.map",
+    "runtime-main.js": "/libro-cuentos-app/static/js/runtime-main.3681335e.js",
+    "runtime-main.js.map": "/libro-cuentos-app/static/js/runtime-main.3681335e.js.map",
+    "static/css/2.c6c05aa8.chunk.css": "/libro-cuentos-app/static/css/2.c6c05aa8.chunk.css",
+    "static/js/2.c0fc208f.chunk.js": "/libro-cuentos-app/static/js/2.c0fc208f.chunk.js",
+    "static/js/2.c0fc208f.chunk.js.map": "/libro-cuentos-app/static/js/2.c0fc208f.chunk.js.map",
+    "static/js/3.6a9f7344.chunk.js": "/libro-cuentos-app/static/js/3.6a9f7344.chunk.js",
+    "static/js/3.6a9f7344.chunk.js.map": "/libro-cuentos-app/static/js/3.6a9f7344.chunk.js.map",
+    "index.html": "/libro-cuentos-app/index.html",
+    "static/css/2.c6c05aa8.chunk.css.map": "/libro-cuentos-app/static/css/2.c6c05aa8.chunk.css.map",
+    "static/css/main.82f7c6a6.chunk.css.map": "/libro-cuentos-app/static/css/main.82f7c6a6.chunk.css.map",
+    "static/js/2.c0fc208f.chunk.js.LICENSE.txt": "/libro-cuentos-app/static/js/2.c0fc208f.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/libro-cuentos-app/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3681335e.js",
+    "static/css/2.c6c05aa8.chunk.css",
+    "static/js/2.c0fc208f.chunk.js",
+    "static/css/main.82f7c6a6.chunk.css",
+    "static/js/main.60cfbe92.chunk.js"
+  ]
+}
